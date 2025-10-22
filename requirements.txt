@@ -1,0 +1,6 @@
+Flask
+openrouteservice==2.2.0
+numpy
+vosk
+sounddevice
+pyttsx3
